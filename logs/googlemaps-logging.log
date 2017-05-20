@@ -1,0 +1,47 @@
+13:16:42.999 [main] INFO  - Starting GooglemapApplication on DEL1-LHP-N00567 with PID 8012 (D:\google\dev-phase-2\GDO-MAPS\API\googlemap\target\classes started by ankit.gupta4 in D:\google\dev-phase-2\GDO-MAPS\API\googlemap)
+13:16:43.019 [main] INFO  - No active profile set, falling back to default profiles: default
+13:16:52.219 [main] INFO  - Started GooglemapApplication in 10.081 seconds (JVM running for 11.57)
+13:17:22.073 [main] INFO  - Starting GooglemapApplication on DEL1-LHP-N00567 with PID 8500 (D:\google\dev-phase-2\GDO-MAPS\API\googlemap\target\classes started by ankit.gupta4 in D:\google\dev-phase-2\GDO-MAPS\API\googlemap)
+13:17:22.083 [main] INFO  - No active profile set, falling back to default profiles: default
+13:17:29.793 [main] INFO  - Started GooglemapApplication in 8.44 seconds (JVM running for 9.136)
+13:18:14.599 [http-nio-8080-exec-1] INFO  - Generating filter response for all the process..
+13:18:14.975 [http-nio-8080-exec-1] INFO  - Bulk processing started...
+13:18:14.976 [http-nio-8080-exec-1] INFO  - Bulk processing: 1852 number of actions
+13:18:16.684 [http-nio-8080-exec-1] INFO  - created archive file Beegees - GL Ops Performance November'16 - Beegees2017-04-03 01_18_03.csv
+13:18:16.688 [http-nio-8080-exec-1] INFO  - successfully moved file Beegees - GL Ops Performance November'16 - Beegees2017-04-03 01_18_03.csv to archive directory
+13:18:16.755 [elasticsearch[Kid Nova][listener][T#1]] INFO  - Bulk  processing completed...
+13:18:36.283 [http-nio-8080-exec-2] INFO  - Generating filter response for all the process..
+13:19:15.690 [http-nio-8080-exec-2] INFO  - Bulk processing started...
+13:19:15.691 [http-nio-8080-exec-2] INFO  - Bulk processing: 1852 number of actions
+13:19:16.711 [elasticsearch[Kid Nova][listener][T#2]] INFO  - Bulk  processing completed...
+13:19:19.406 [http-nio-8080-exec-2] INFO  - created archive file Beegees - GL Ops Performance November'16 - Beegees2017-04-03 01_19_03.csv
+13:19:19.411 [http-nio-8080-exec-2] INFO  - successfully moved file Beegees - GL Ops Performance November'16 - Beegees2017-04-03 01_19_03.csv to archive directory
+13:20:02.647 [main] INFO  - Starting GooglemapApplication on DEL1-LHP-N00567 with PID 8240 (D:\google\dev-phase-2\GDO-MAPS\API\googlemap\target\classes started by ankit.gupta4 in D:\google\dev-phase-2\GDO-MAPS\API\googlemap)
+13:20:02.655 [main] INFO  - No active profile set, falling back to default profiles: default
+13:20:10.018 [main] INFO  - Started GooglemapApplication in 8.06 seconds (JVM running for 8.807)
+13:20:15.194 [http-nio-8080-exec-1] INFO  - Generating filter response for all the process..
+13:20:18.220 [http-nio-8080-exec-1] INFO  - Index process created
+13:20:19.713 [http-nio-8080-exec-1] INFO  - Bulk processing started...
+13:20:19.713 [http-nio-8080-exec-1] INFO  - Bulk processing: 1852 number of actions
+13:20:21.662 [elasticsearch[Death][listener][T#1]] INFO  - Bulk  processing completed...
+13:20:22.349 [http-nio-8080-exec-1] INFO  - created archive file Beegees - GL Ops Performance November'16 - Beegees2017-04-03 01_20_03.csv
+13:20:22.353 [http-nio-8080-exec-1] INFO  - successfully moved file Beegees - GL Ops Performance November'16 - Beegees2017-04-03 01_20_03.csv to archive directory
+13:21:44.722 [http-nio-8080-exec-3] INFO  - Generating filter response for all the process..
+13:21:46.576 [http-nio-8080-exec-3] INFO  - Index resource created
+13:21:48.047 [http-nio-8080-exec-3] INFO  - Bulk processing started...
+13:21:48.048 [http-nio-8080-exec-3] INFO  - Bulk processing: 99 number of actions
+13:21:48.396 [elasticsearch[Death][listener][T#2]] INFO  - Bulk  processing completed...
+13:21:48.917 [http-nio-8080-exec-3] INFO  - created archive file Resource List2017-04-03 01_21_03.csv
+13:21:48.921 [http-nio-8080-exec-3] INFO  - successfully moved file Resource List2017-04-03 01_21_03.csv to archive directory
+13:25:52.906 [main] INFO  - Starting GooglemapApplication on DEL1-LHP-N00567 with PID 6300 (D:\google\dev-phase-2\GDO-MAPS\API\googlemap\target\classes started by ankit.gupta4 in D:\google\dev-phase-2\GDO-MAPS\API\googlemap)
+13:25:52.924 [main] INFO  - No active profile set, falling back to default profiles: default
+13:26:00.470 [main] INFO  - Started GooglemapApplication in 8.256 seconds (JVM running for 8.937)
+13:26:41.172 [http-nio-8080-exec-1] INFO  - Generating filter response for all the process..
+13:26:41.390 [http-nio-8080-exec-1] INFO  - Bulk processing started...
+13:26:41.392 [http-nio-8080-exec-1] INFO  - Bulk processing: 99 number of actions
+13:26:41.942 [elasticsearch[Rl'nnd][listener][T#1]] INFO  - Bulk  processing completed...
+13:26:42.192 [http-nio-8080-exec-1] INFO  - created archive file Resource List2017-04-03 01_26_03.csv
+13:26:42.195 [http-nio-8080-exec-1] INFO  - successfully moved file Resource List2017-04-03 01_26_03.csv to archive directory
+13:27:34.102 [http-nio-8080-exec-2] INFO  - Generating filter response for all the process..
+13:27:53.497 [http-nio-8080-exec-3] INFO  - Generating filter response for all the process..
+13:28:11.656 [http-nio-8080-exec-4] INFO  - Generating filter response for all the process..
